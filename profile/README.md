@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Fabián Carrillo
 
-## 🚀 Senior AI Delivery Manager | AWS | Data | Generative AI
+## 🚀 Sr. Automation Delivery Manager | AWS | Data | Generative AI
 
 I lead the **delivery of complex, enterprise-scale initiatives** across AWS-based data platforms and Generative AI solutions, with a strong focus on **governance, architecture-first execution, and predictable outcomes**.
 
